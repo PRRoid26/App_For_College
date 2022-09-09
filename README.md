@@ -14,3 +14,4 @@ User (Company) can drill down to individual students academic and non academic a
 "Your College" and "Students Progress". Under "Your College" page it will display information regarding upcoming events, amenities in college, clubs and committees and 
 library. Under "Your Progress" Page it will show two tabs "Academics" and "Non Academics", under academics it will show students academic progrss history till date and 
 in non academic it will show non academic achievements and committees joined till date.
+  
